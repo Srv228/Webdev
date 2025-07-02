@@ -38,6 +38,7 @@ let rappers = ["Eminem", "Tupac", "Raftaar", true];
 
 // console.log(rappers[0]);
 
+
 //Type Conversion
 
 // console.log(1 + "1"); //11

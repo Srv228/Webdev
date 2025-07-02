@@ -52,3 +52,4 @@ console.log(demo1); //4
 let sm1 = Symbol("sourav");
 let sm2 = Symbol("sourav");
 console.log(sm1 == sm2); //false
+
