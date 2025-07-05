@@ -8,7 +8,7 @@ let num2 = 8;
 console.log("Upperrcode");
 
 if (num1 > num2) {
-  //   console.log("num1 is greater than num2");
+    console.log("num1 is greater than num2");
 } else {
     console.log("Nope , num1 is Not greater than num2");
 }
