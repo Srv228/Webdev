@@ -106,7 +106,7 @@ let europeanCities = ["Paris", "Rome"];
 let asianCities = ["Tokyo", "Bangkok"];
 
 let worldCities = europeanCities.concat(asianCities);
-// console.log(worldCities);
+console.log(worldCities);
 
 /* 
 9. You have an array named `teaMenu` containing `"masala chai"`, `"oolong tea"`, `"green tea"`, and `"earl grey"`. 
@@ -127,4 +127,14 @@ let menuLength = teaMenu.length;
 let cityBucketList = ["Kyoto", "London", "Cape Town", "Vancouver"];
 
 let isLondonInList = cityBucketList.includes("London");
-console.log(isLondonInList);
+// console.log(isLondonInList);
+
+let arr = [1, 2, 3, 4];
+console.log(arr.indexOf(3));
+
+/*
+0  1 2  3
+|  | |  |
+1  2 3  4
+
+   */
